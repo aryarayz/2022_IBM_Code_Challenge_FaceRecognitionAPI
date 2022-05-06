@@ -5,13 +5,13 @@
 
 ## Applications
 
-***Facebook uses face recognition technology to automatically recognize when Facebook members appear in photos
+***Facebook uses face recognition technology to automatically recognize when Facebook members appear in photos***
 
-***Face recognition works on a simple and non-obtrusive principle. After a driver enrolls into the system, the system “remembers” them. Each time they enter the vehicle again, the system “recognizes” them and gives them access to predefined functionalities such as the permission to start the car.
+***Face recognition works on a simple and non-obtrusive principle. After a driver enrolls into the system, the system “remembers” them. Each time they enter the vehicle again, the system “recognizes” them and gives them access to predefined functionalities such as the permission to start the car.***
 
-***Security companies are using facial recognition to secure their premises.
+***Security companies are using facial recognition to secure their premises.***
 
-***Immigration checkpoints use facial recognition to enforce smarter border control.
+***Immigration checkpoints use facial recognition to enforce smarter border control.***
 
 ## Architecture
 
@@ -23,21 +23,21 @@ the network not just to new data, but to entirely
 new classes from unknown distributions. Using a
 convolutional architecture, we are able to achieve
 strong results which exceed those of other deep
-learning models with near state-of-the-art performance on one-shot classification tasks.
+learning models with near state-of-the-art performance on one-shot classification tasks.***
 
 ##Tools
 
 ###FaceRecognition Library
 **Recognize and manipulate faces from Python or from the command line with
-the world’s simplest face recognition library.
+the world’s simplest face recognition library.**
 
 ###OpenCv
 **To
-build our face recognition system, we’ll first perform face detection, extract face embeddings from each face using deep learning, train a face recognition model on the embeddings, and then finally recognize faces in both images and video streams with OpenCV.
+build our face recognition system, we’ll first perform face detection, extract face embeddings from each face using deep learning, train a face recognition model on the embeddings, and then finally recognize faces in both images and video streams with OpenCV.**
 
 ###Tensorflow
 **Using Tensorflow For Face Recognition
-The images are classified using CNN. In most cases, to generate a model means the classification of the images only needs to provide a similar image which is the positive image. 
+The images are classified using CNN. In most cases, to generate a model means the classification of the images only needs to provide a similar image which is the positive image. **
 
 
 
