@@ -37,7 +37,7 @@ build our face recognition system, we’ll first perform face detection, extract
 
 ### Tensorflow
 **Using Tensorflow For Face Recognition
-The images are classified using CNN. In most cases, to generate a model means the classification of the images only needs to provide a similar image which is the positive image. **
+The images are classified using CNN. In most cases, to generate a model means the classification of the images only needs to provide a similar image which is the positive image**
 
 
 
