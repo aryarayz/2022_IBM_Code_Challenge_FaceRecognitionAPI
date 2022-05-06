@@ -41,4 +41,5 @@ The images are classified using CNN. In most cases, to generate a model means th
 
 
 
-
+## Video Link
+https://drive.google.com/file/d/1o_SZudg6GGL45EsCHnOjz3S8-QXhXd7S/view?usp=sharing
