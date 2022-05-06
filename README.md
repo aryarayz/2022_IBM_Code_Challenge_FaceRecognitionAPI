@@ -25,17 +25,17 @@ convolutional architecture, we are able to achieve
 strong results which exceed those of other deep
 learning models with near state-of-the-art performance on one-shot classification tasks.***
 
-##Tools
+## Tools
 
-###FaceRecognition Library
+### FaceRecognition Library
 **Recognize and manipulate faces from Python or from the command line with
 the world’s simplest face recognition library.**
 
-###OpenCv
+### OpenCv
 **To
 build our face recognition system, we’ll first perform face detection, extract face embeddings from each face using deep learning, train a face recognition model on the embeddings, and then finally recognize faces in both images and video streams with OpenCV.**
 
-###Tensorflow
+### Tensorflow
 **Using Tensorflow For Face Recognition
 The images are classified using CNN. In most cases, to generate a model means the classification of the images only needs to provide a similar image which is the positive image. **
 
